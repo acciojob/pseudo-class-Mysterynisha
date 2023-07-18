@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.main::before{
+	color:red;
+	content:"Before Element";
+	 
+}
+.main::after{
+	color:red;
+	content:"After Element";
+	
+}
